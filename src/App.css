@@ -1,0 +1,23 @@
+@font-face {
+  font-family: PoppinsLight;
+  src: url(../src/assets/fonts/Poppins-Light.ttf);
+}
+@font-face {
+  font-family: PoppinsBold;
+  src: url(../src/assets/fonts/Poppins-Bold.ttf);
+}
+@font-face {
+  font-family: PoppinsRegular;
+  src: url(../src/assets/fonts/Poppins-Regular.ttf);
+}
+
+.app-container input {
+  font-family: PoppinsRegular;
+}
+
+.app-container {
+  font-family: PoppinsLight;
+  position: relative;
+  height: 100vh;
+}
+
